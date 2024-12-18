@@ -1,2 +1,2 @@
-# Python
-Sample Python codes (AI, Algorithms and Data Structures, LeetCode, etc.)
+# Data Structures and Algorithms
+Implementations for common data structures and algorithms.
